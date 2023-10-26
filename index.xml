@@ -16,7 +16,7 @@
    </paramsfo>
   </package>
 
-  <latest_playgo_manifest url="" />
+  <latest_playgo_manifest url="https://github.com/mgs-ps4/ps4/blob/main/Playgo-manifest.xml" />
  </tag>
 </titlepatch>
 </body>
